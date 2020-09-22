@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bitch Stole my Font- The Biggest Legal Battles in Typography
-date: 2020-09-22T17:33:13.032Z
+date: 2020-09-22T18:15:00.000Z
 header_feature_image: ../uploads/fernando-venzano-mytyxb7fgg0-unsplash.jpg
 caption: ""
 comments: true
