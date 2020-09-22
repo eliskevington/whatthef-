@@ -1,9 +1,9 @@
-title: "   "
-description: "  "
+title: What the F-
+description: "  A Fonty Blog for Fonty People"
 header_text: ""
 footer_text: I promise it stands for font
 header_feature_image: ../uploads/what-the-f-.png
-bannerheight: 100vh
+bannerheight: 60vmax
 logo: ../uploads/what-the-f-logo.png
 favicon: /uploads/favicon.ico
 gridlayout: false
