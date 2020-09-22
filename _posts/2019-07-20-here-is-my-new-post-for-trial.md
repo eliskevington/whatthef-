@@ -1,48 +1,45 @@
 ---
 layout: post
-title: Here is a blog post sample
-date: 2020-06-24 17:50
-header_feature_image: /uploads/867FAB82-62D7-4C53-8EDC-5114095CF8AA.jpeg
-caption: Cobbles
+title: Bitch Stole my Font- The Biggest Legal Battles in Typography
+date: 2020-09-22T17:33:13.032Z
+header_feature_image: ../uploads/fernando-venzano-mytyxb7fgg0-unsplash.jpg
+caption: ""
+comments: true
 ---
+Typefaces, as we all know, are not copyrightable.
 
-This is just a sample post that you should delete. This first paragraph will appear on the home page as a preview of the post. The rest below this paragraph will appear on the blog post page.
+The actual form of the letters can not be protected by law; but fonts, the tiny digital files that contain the typeface in question, can be. Therefore, while copying the design or distributing the actual font would not be illegal, doing the same with the actual digital font file would be. This can make is incredibly difficult to try and copyright your own typeface, and especially difficult to try and find companies who may have exploited it. For larger typography companies though, its slightly easier, especialy when its another big business who has taken it. Below, we go through some of the most prominent lawsuits in font lisencing.
 
-The `header_feature_image` is optional and you should enter the path to it in the metadata above.
+![Credit: NBC Universal](../uploads/nbc.png)
 
-> Here follows some more placeholder text. You can see the `markdown` when viewing this post in Atom. This is a *blockquote*.
+### **Brand Design Co. vs NBC Universal**
 
+In 2012, Brand Design Co. sued entertainment giant NBC Universal over the alleged use of their typeface 'Chalet' on the company's websites. While Oxygen Media, a subsidary of NBCU, had puchased a lisence to the Chalet typeface, it was only a basic 36-user lisence. Evidence from the later settlement indicated that they typeface had been downloaded around 200,000 times. A New York Federal Judge dismissed the case in 2013, and the suit was settled outside of court. NBC Universal agreed to pay Brand Design Co. $175 for each infringement, adding up in the end to a whopping $3.5 million!
 
-![Here is a book](../uploads/pages.jpg)
+![](../uploads/my-little-pony.jpg)
 
-By impossible of in difficulty discovered celebrated ye. Justice joy manners boy met resolve produce. Bed head loud next plan rent had easy add him. To open draw dear be by side like.
+### Font Bros. v Hasbro
 
-It sportsman earnestly ye preserved an on. Moment led family sooner cannot her window pulled any. Or raillery if improved landlord to speaking hastened differed he. Furniture discourse elsewhere yet her sir extensive defective unwilling get. Why resolution one motionless you him thoroughly. Written address greatly get attacks inhabit pursuit our but. Lasted hunted enough an up seeing in lively letter. Had judgment out opinions property the supplied.
+One of the most recent prominent legal disputes happened in 2016 when Minneapolis- based typography company Font Bros. sued Hasbro, the toy company responsible for the My Little Pony range. Allegedly, a typeface supplied by the Font Bros., 'Generation B', was used illegaly on both packaging and on the My Little Pony website itself, because Hasbro didn't possess the proper lisencing agreement. The typography company is suing for $150,000 per infringement, claiming they asked the toy company to pay the appropriate lisencing fee sveral times, but had they'd been continually refused.
 
-Dependent certainty off discovery him his tolerably offending. Ham for attention remainder sometimes additions recommend fat our. Direction has strangers now believing. Respect enjoyed gay far exposed parlors towards. Enjoyment use tolerably dependent listening men. No peculiar in handsome together unlocked do by. Article concern joy anxious did picture sir her.
+![Credit: HypeForType](../uploads/hypefortype.jpg)
 
-Of recommend residence education be on difficult repulsive offending. Judge views had mirth table seems great him for her. Alone all happy asked begin fully stand own get. Excuse ye seeing result of we. See scale dried songs old may not. Promotion did disposing you household any instantly. Hills we do under times at first short an.
+### HypeForType vs Universal Music Studios
 
-## Here is a an image
+Another massive lawsuit over typography was served to Universal Music Studios in 2017 by HypeForType, the largest online font shop in Europe. They claimed that Universal Music had used their fonts 'Nanami Rounded' and 'Ebisu Bold' in the logo for popular British band The Vamps. This therefore meant the typefaces in question was used in artwork, promotional materials, merchandising and more for the band. Similar to NBCU, the designer of the logo Stuart Hardie had purchased a basic license for the fonts several years before, but Universal Music had never purchased the additional lisencing agreements for the logo to be used commercially.
 
-![Wooden Type](../uploads/log.jpg)
+HypeForType filed for $1.25 million and the destruction of all existing materials and merchandise, which would mean getting rid of every piece of merchandise and promotion ever created for the band, and starting from scratch.
 
-She who arrival end how fertile enabled. Brother she add yet see minuter natural smiling article painted. Themselves at dispatched interested insensible am be prosperous reasonably it. In either so spring wished. Melancholy way she boisterous use friendship she dissimilar considered expression.
+![Credit: Font Diner](../uploads/font-diner.png)
 
-* Here is a sequence of bulleted text.
-* And we can just use an asterisk at the front of each line
-* Like this
-* and
-* Like this
+### Font Diner v Mixpanel
 
-1. Numbered Lists
-2. Are different
-3. just add a number
-4. And full stop
-5. there you are
+Although neither of those names might sound familiar, you may recognise the name Tumblr. Font Diner, a retro themed typeface company, sued Mixpanel for $2 million in 2013, claiming Mixpanel had used their font 'Coffee Service' by embedding it in a Tumblr theme without the appropriate lisence. The suit was terminated less than 2 months later, settling out of court.
 
-There is a lot more that you can learn about `markdown` but by using **Atom** the toolbar will help!
+![Credit: Getty Images](../uploads/rick-santorum1.jpg)
 
-Ten the hastened steepest feelings pleasant few surprise property. Led raising expense yet demesne weather musical. Me mr what park next busy ever. Elinor her his secure far twenty eat object. Late any far saw size want man. Which way you wrong add shall one.
+### Typotheque vs Rick Santorum/ RaiseDigital
 
- No betrayed pleasure possible jointure we in throwing. And can event rapid any shall woman green. Smiling nothing affixed he carried it clothes calling he no. Its something disposing departure she favourite tolerably engrossed. Excellence put unaffected reasonable mrs introduced conviction she. Nay particular delightful but unpleasant for uncommonly who.
+Another typography legal dispute that reached mainstream media was in 2011, when Dutch typeface design company Typotheque filed a lawsuit against RaiseDigital, Santorum, and supposedly the America's Foundation PAC, although one of them were officially named as the defendent in the case. Allegedly, RaiseDigital, a business systems and web development company, had been commissioned by the America's Foundation PAC and by extension Santorum's campaign committee to help develop the Senator's website in his run for the US Presidency.
+
+Typotheque is the copyright owner of the name of the typeface in question, 'FEDRA', that was used on the website. The original lawsuit was for $2 million, though its uncear how the case was actually resolved.
