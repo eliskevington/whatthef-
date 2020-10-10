@@ -1,11 +1,13 @@
 ---
 layout: post
-title: A Comprehensive Ranking of the Coolest Fonts Microsoft Word has to Offer
+title: A Comprehensive Ranking of the Coolest Fonts
 date: 2020-10-10T15:43:31.240Z
 header_feature_image: ../uploads/alice-donovan-rouse-yu68fuqdvoi-unsplash.jpg
 caption: Based solely off vibes
 comments: true
 ---
+Microsoft Office is home base for writers, and in terms of typography they have plenty of choice. But have you ever wondered which one is the coolest? Well lucjy for you, I've ranked them!
+
 ![](../uploads/biome.png)
 
 Coming in at the bottom spot on today's list is Biome. Now I wouldn't have previosusly considered putting Biome on this list until I saw that M. It hands down beats any other space-y computer-y typography. Never doing too much, but still doing enough. A full 6.5/10 from me.
