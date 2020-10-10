@@ -6,6 +6,6 @@ header_feature_image: ../uploads/what-the-f-.png
 bannerheight: 60vmax
 logo: ../uploads/what-the-f-logo.png
 favicon: /uploads/favicon.ico
-gridlayout: false
+gridlayout: true
 fixednavbar: false
 upzoom: true
