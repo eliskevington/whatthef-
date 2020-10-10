@@ -6,7 +6,7 @@ header_feature_image: ../uploads/alice-donovan-rouse-yu68fuqdvoi-unsplash.jpg
 caption: Based solely off vibes
 comments: true
 ---
-Microsoft Office is home base for writers, and in terms of typography they have plenty of choice. But have you ever wondered which one is the coolest? Well lucjy for you, I've ranked them!
+Microsoft Office is home base for writers, and in terms of typography they have plenty of choice. But have you ever wondered which one is the coolest? Well lucky for you, I've ranked them!
 
 ![](../uploads/biome.png)
 
