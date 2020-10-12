@@ -4,8 +4,9 @@ header_text: ""
 footer_text: I promise it stands for font
 header_feature_image: ../uploads/what-the-f-.png
 bannerheight: 60vmax
-logo: ../uploads/what-the-f-logo.png
-favicon: /uploads/favicon.ico
+logo: ../uploads/wtf-logo.jpg
+favicon: ../uploads/wtf-logo.jpg
 gridlayout: true
 fixednavbar: false
 upzoom: true
+items: []
